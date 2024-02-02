@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\AngularWithDotNet.Server.exe
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\AngularWithDotNet.Server.dll
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\AngularWithDotNet.Server.deps.json
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\AngularWithDotNet.Server.runtimeconfig.json
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\AngularWithDotNet.Server.pdb
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\AngularWithDotNet\AngularWithDotNet.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
